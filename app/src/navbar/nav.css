@@ -1,0 +1,86 @@
+.navbar{
+    background-color: #0a0a23;
+    color: azure;
+    display: flex;
+    height: 40px;
+    padding: 10px 2px 2px 2px;
+}
+
+form input{
+    background-color: #3e3e5b;
+    margin-left: 12px;
+    margin-right: auto;
+    color: azure;
+}
+
+.searchBar{
+    margin-left: 0;
+    margin-right: auto;
+    color: #3a4570;
+}
+
+.freeCodeCamp{
+    /* width: 33%; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.freeCodeCamp a {
+    text-decoration: none;
+    color: azure;
+}
+
+button {
+    background: transparent;
+    margin-right: 20px;
+    border-color: azure;
+    box-sizing: border-box;
+    border: auto solid azure;
+    margin: 3px 3px 3px 3px;
+}
+
+
+.rightNav{
+    display: flex;
+    margin-left: auto;
+    margin-right: 0;
+    padding-inline: 12px;
+}
+
+.language{
+    margin: 0px 0px 3px;
+    font-size: medium;
+    color: azure;
+}
+
+.language button{
+    cursor: pointer;
+}
+
+.menu{
+    color: white;
+    margin: 3px 3px 3px 3px;
+    cursor: pointer;
+}
+
+.menu a {
+    font-size: medium;
+    text-decoration: none;
+    color: azure;
+}
+
+
+.signinButton{
+    background-color: #feac32;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.signin{
+    color: #05011e;
+    font-size: medium;
+    text-align: justify;
+    margin: 3px 3px 3px 3px;
+    cursor: pointer;
+    text-decoration: none;
+}

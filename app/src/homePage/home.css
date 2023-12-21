@@ -1,0 +1,45 @@
+.Headings {
+  margin: 50px 100px 50px 500px;
+}
+
+.heading2 .heading1 .heading3 {
+  display: flex;
+  justify-content: center;
+}
+
+.heading4 {
+  margin: 50px 500px 50px 500px;
+  display: flex;
+  text-align: left;
+  font-size: large;
+  font-weight: 500;
+}
+
+.MAANG {
+  display: flex;
+  justify-content: center;
+  margin: 0px 400px 50px 500px;
+}
+
+.getStarted{
+    margin-left: 400px;
+    padding-left: 100px;
+}
+
+
+.getStartedBtn:hover{
+    background-color: #fab246;
+    width: 600px;
+}
+
+.getStarted button{
+    justify-content: center;
+    background-color: #feac32;
+    width: 600px;
+    cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

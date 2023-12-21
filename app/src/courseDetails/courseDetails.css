@@ -1,0 +1,11 @@
+.courseDetailsPage {
+    padding: 20px 400px 50px 500px;
+}
+
+.courseName, .icon {
+    text-align: center;
+}
+
+.description {
+    justify-content: space-evenly;
+}

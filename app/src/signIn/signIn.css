@@ -1,0 +1,30 @@
+.signInPage{
+    margin-left: 600px;
+    margin-top: 10px;
+    margin-right: 500px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.emailInput, .passwordInput {
+    background-color: transparent;
+    color: black;
+    border-radius: 5px;
+}
+
+.login {
+    text-align: center;
+}
+
+.loginBtn{
+    background-color: #feac32;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.member{
+    font-size: medium;
+}
