@@ -24,7 +24,7 @@ A website for learning coding and softer development for free. Users can login/s
 - `/api/v1/courseData/course/${id}` : for viewing course details further
 
 ## Deployment details
-***`Demo Link:`*** [https://aesthetic-frangipane-073db9.netlify.app/](https://free-code-camp-clone-chi.vercel.app/)
+***`Demo Link:`*** https://free-code-camp-clone-chi.vercel.app/
 
 Front-end deployed using `vercel.com`.
 
